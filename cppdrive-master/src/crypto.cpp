@@ -5,7 +5,7 @@
 #include <openssl/pem.h>
 #include <openssl/rand.h>
 #include <openssl/rsa.h>
-
+#include <cstring>
 #include <memory>
 
 bool generate_symmetric_key(std::string &sym_key) {
