@@ -1,0 +1,5 @@
+/workspaces/ccpdrive/cppdrive/build/CMakeFiles/rebuild_cache.dir
+/workspaces/ccpdrive/cppdrive/build/CMakeFiles/edit_cache.dir
+/workspaces/ccpdrive/cppdrive/build/CMakeFiles/client.dir
+/workspaces/ccpdrive/cppdrive/build/CMakeFiles/server.dir
+/workspaces/ccpdrive/cppdrive/build/CMakeFiles/engine.dir
